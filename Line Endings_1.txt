@@ -1,0 +1,21 @@
+14 tests, 4 failures, 0.138s duration
+
+LineEndingTests
+testCommaAtStart, 0.012s, passed
+testEOLComma2x3L1, 0.003s, passed
+testEOLComma2x3L2, 0.001s, passed
+testEOLComma2x3L3, 0.001s, passed
+testCommaAtEnd, 0.0s, passed
+testLFEOLComma2x3L1, 0.005s, passed
+testLFEOLComma2x3L2, 0.001s, passed
+testLFEOLComma2x3L3, 0.006s, passed
+testLFEOLComma2x3L3NT, 0.005s, failed
+No Message
+testEOLComma2x3L3NT, 0.002s, failed
+No Message
+testMixedLineBreaks, 0.001s, passed
+testEmbeddedLineBreaks, 0.002s, failed
+expected:<0> but was:<1>
+testSingleNumberLF, 0.001s, passed
+testSingleNumberNoTerminalLinebreak, 0.002s, failed
+No Message

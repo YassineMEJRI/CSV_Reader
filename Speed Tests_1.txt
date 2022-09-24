@@ -1,0 +1,12 @@
+SpeedTests
+testSpeedSingleLongUnquotedField, 0.056s, failed
+No Message
+testSpeedRowOfEmpties, 0.048s, failed
+No Message
+testFieldsOfQuotes, 0.074s, failed
+No Message
+testManyRows, 0.132s, passed
+testLongFieldOfCommasAndQuotes, 0.025s, failed
+No Message
+testLongFieldOfCommas, 0.034s, failed
+No Message
